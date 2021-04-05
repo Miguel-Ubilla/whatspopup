@@ -1,0 +1,2 @@
+# WhatsPopUp
+Ventana popUp que permite tener Web WhatsApp en S.O. (linux) sin aplicacion nativa , mediante navegador Firefox. Tambien aplica para cualquier S.O. donde se ejecute Firefox, pero su utilidad esta en donde no se dispone de la app de escritorio oficial.
