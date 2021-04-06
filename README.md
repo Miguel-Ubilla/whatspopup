@@ -3,11 +3,11 @@ Ventana popUp que permite tener Web WhatsApp en S.O. (linux) sin aplicacion nati
 Pretende ser una alternativa a dejar fijada la pestaña en el navegador, y a no tener que encapsular con por ejemplo electron el servicio de WhatsApp web para tenerlo disponible como ventana en el escritorio.
 
 
-Agradecimiento a https://www.flaticon.es/ por el uso del logo de WhatsApp SVG  
+### Agradecimiento a https://www.flaticon.es/ por el uso del logo de WhatsApp SVG  
 https://www.flaticon.es/packs/social-media-logos-2
 
 
-Material de apoyo utilizado:  
+### Material de apoyo utilizado:  
 https://developer.mozilla.org/es/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension  
 https://developer.mozilla.org/es/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension  
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/windows/create  
